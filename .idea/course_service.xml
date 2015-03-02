@@ -24,7 +24,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="24" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="2" />
                                   <option name="replacementLength" value="22" />
                                   <option name="start" value="4" />
@@ -33,7 +33,7 @@
                                   <option name="start" value="4" />
                                   <option name="hint" value="lesson1task1hello_world_1" />
                                   <option name="possible_answer" value="return &quot;Hello, World!&quot;" />
-                                  <option name="length" value="24" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value="implement this function!" />
                                   <option name="myReplacementLength" value="22" />
                                   <option name="myIndex" value="1" />
@@ -103,7 +103,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="24" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="22" />
                                       <option name="start" value="4" />
@@ -112,7 +112,7 @@
                                       <option name="start" value="4" />
                                       <option name="hint" value="lesson1task1hello_world_1" />
                                       <option name="possible_answer" value="return &quot;Hello, World!&quot;" />
-                                      <option name="length" value="24" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="implement this function!" />
                                       <option name="myReplacementLength" value="22" />
                                       <option name="myIndex" value="1" />
@@ -198,7 +198,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="24" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="22" />
                                       <option name="start" value="4" />
@@ -207,7 +207,7 @@
                                       <option name="start" value="4" />
                                       <option name="hint" value="lesson1task1hello_world_1" />
                                       <option name="possible_answer" value="return &quot;Hello, World!&quot;" />
-                                      <option name="length" value="24" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="implement this function!" />
                                       <option name="myReplacementLength" value="22" />
                                       <option name="myIndex" value="1" />
@@ -277,7 +277,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="24" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="2" />
                                           <option name="replacementLength" value="22" />
                                           <option name="start" value="4" />
@@ -286,7 +286,7 @@
                                           <option name="start" value="4" />
                                           <option name="hint" value="lesson1task1hello_world_1" />
                                           <option name="possible_answer" value="return &quot;Hello, World!&quot;" />
-                                          <option name="length" value="24" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value="implement this function!" />
                                           <option name="myReplacementLength" value="22" />
                                           <option name="myIndex" value="1" />

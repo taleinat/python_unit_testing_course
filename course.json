@@ -1,0 +1,44 @@
+{
+  "lessons": [
+    {
+      "name": "Introduction",
+      "task_list": [
+        {
+          "name": "Hello, World!",
+          "task_files": {
+            "hello_world.py": {
+              "task_windows": [
+                {
+                  "line": 2,
+                  "start": 4,
+                  "hint": "lesson1task1hello_world_1",
+                  "possible_answer": "return \"Hello, World!\"",
+                  "length": 24
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Your first unit test",
+          "task_files": {
+            "test_hello_someone.py": {
+              "task_windows": [
+                {
+                  "line": 7,
+                  "start": 8,
+                  "hint": "lesson1task2hello_someone_1",
+                  "possible_answer": "self.assertEqual(hello_someone(\"World\"), \"Hello, World!\")",
+                  "length": 94
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "description": "An introductory interactive course about unit testing in Python.",
+  "name": "Python Unit-Testing Course",
+  "author": "taleinat"
+}
