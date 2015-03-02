@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CCProjectService">
+    <course>
+      <option name="author" value="taleinat" />
+      <option name="description" value="An introductory interactive course about unit testing in Python." />
+      <option name="name" value="Python Unit-Testing Course" />
+      <option name="lessons">
+        <list>
+          <Lesson>
+            <option name="index" value="1" />
+            <option name="name" value="Introduction" />
+            <option name="task_list">
+              <list>
+                <Task>
+                  <option name="index" value="1" />
+                  <option name="name" value="Hello, World!" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="hello_world.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="24" />
+                                  <option name="line" value="2" />
+                                  <option name="replacementLength" value="22" />
+                                  <option name="start" value="4" />
+                                  <option name="taskText" value="implement this function!" />
+                                  <option name="line" value="2" />
+                                  <option name="start" value="4" />
+                                  <option name="hint" value="lesson1task1hello_world_1" />
+                                  <option name="possible_answer" value="return &quot;Hello, World!&quot;" />
+                                  <option name="length" value="24" />
+                                  <option name="myTaskText" value="implement this function!" />
+                                  <option name="myReplacementLength" value="22" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                              </list>
+                            </option>
+                            <option name="myIndex" value="1" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="1" />
+                </Task>
+                <Task>
+                  <option name="index" value="2" />
+                  <option name="name" value="Your first unit test" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="test_hello_someone.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="7" />
+                                  <option name="replacementLength" value="57" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="test that the function returns &quot;Hello, World!&quot; when called with the appropriate input argument" />
+                                  <option name="line" value="7" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson1task2hello_someone_1" />
+                                  <option name="possible_answer" value="self.assertEqual(hello_someone(&quot;World&quot;), &quot;Hello, World!&quot;)" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="test that the function returns &quot;Hello, World!&quot; when called with the appropriate input argument" />
+                                  <option name="myReplacementLength" value="57" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                              </list>
+                            </option>
+                            <option name="myIndex" value="1" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="2" />
+                </Task>
+              </list>
+            </option>
+            <option name="myIndex" value="1" />
+            <option name="myTasksMap">
+              <map>
+                <entry key="task1">
+                  <value>
+                    <Task>
+                      <option name="index" value="1" />
+                      <option name="name" value="Hello, World!" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="hello_world.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="24" />
+                                      <option name="line" value="2" />
+                                      <option name="replacementLength" value="22" />
+                                      <option name="start" value="4" />
+                                      <option name="taskText" value="implement this function!" />
+                                      <option name="line" value="2" />
+                                      <option name="start" value="4" />
+                                      <option name="hint" value="lesson1task1hello_world_1" />
+                                      <option name="possible_answer" value="return &quot;Hello, World!&quot;" />
+                                      <option name="length" value="24" />
+                                      <option name="myTaskText" value="implement this function!" />
+                                      <option name="myReplacementLength" value="22" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="1" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="1" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task2">
+                  <value>
+                    <Task>
+                      <option name="index" value="2" />
+                      <option name="name" value="Your first unit test" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="test_hello_someone.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="7" />
+                                      <option name="replacementLength" value="57" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="test that the function returns &quot;Hello, World!&quot; when called with the appropriate input argument" />
+                                      <option name="line" value="7" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson1task2hello_someone_1" />
+                                      <option name="possible_answer" value="self.assertEqual(hello_someone(&quot;World&quot;), &quot;Hello, World!&quot;)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="test that the function returns &quot;Hello, World!&quot; when called with the appropriate input argument" />
+                                      <option name="myReplacementLength" value="57" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="1" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="2" />
+                    </Task>
+                  </value>
+                </entry>
+              </map>
+            </option>
+          </Lesson>
+        </list>
+      </option>
+      <option name="description" value="An introductory interactive course about unit testing in Python." />
+      <option name="name" value="Python Unit-Testing Course" />
+      <option name="author" value="taleinat" />
+      <option name="myLessonsMap">
+        <map>
+          <entry key="lesson1">
+            <value>
+              <Lesson>
+                <option name="index" value="1" />
+                <option name="name" value="Introduction" />
+                <option name="task_list">
+                  <list>
+                    <Task>
+                      <option name="index" value="1" />
+                      <option name="name" value="Hello, World!" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="hello_world.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="24" />
+                                      <option name="line" value="2" />
+                                      <option name="replacementLength" value="22" />
+                                      <option name="start" value="4" />
+                                      <option name="taskText" value="implement this function!" />
+                                      <option name="line" value="2" />
+                                      <option name="start" value="4" />
+                                      <option name="hint" value="lesson1task1hello_world_1" />
+                                      <option name="possible_answer" value="return &quot;Hello, World!&quot;" />
+                                      <option name="length" value="24" />
+                                      <option name="myTaskText" value="implement this function!" />
+                                      <option name="myReplacementLength" value="22" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="1" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="1" />
+                    </Task>
+                    <Task>
+                      <option name="index" value="2" />
+                      <option name="name" value="Your first unit test" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="test_hello_someone.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="7" />
+                                      <option name="replacementLength" value="57" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="test that the function returns &quot;Hello, World!&quot; when called with the appropriate input argument" />
+                                      <option name="line" value="7" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson1task2hello_someone_1" />
+                                      <option name="possible_answer" value="self.assertEqual(hello_someone(&quot;World&quot;), &quot;Hello, World!&quot;)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="test that the function returns &quot;Hello, World!&quot; when called with the appropriate input argument" />
+                                      <option name="myReplacementLength" value="57" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="1" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="2" />
+                    </Task>
+                  </list>
+                </option>
+                <option name="myIndex" value="1" />
+                <option name="myTasksMap">
+                  <map>
+                    <entry key="task1">
+                      <value>
+                        <Task>
+                          <option name="index" value="1" />
+                          <option name="name" value="Hello, World!" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="hello_world.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="24" />
+                                          <option name="line" value="2" />
+                                          <option name="replacementLength" value="22" />
+                                          <option name="start" value="4" />
+                                          <option name="taskText" value="implement this function!" />
+                                          <option name="line" value="2" />
+                                          <option name="start" value="4" />
+                                          <option name="hint" value="lesson1task1hello_world_1" />
+                                          <option name="possible_answer" value="return &quot;Hello, World!&quot;" />
+                                          <option name="length" value="24" />
+                                          <option name="myTaskText" value="implement this function!" />
+                                          <option name="myReplacementLength" value="22" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                      </list>
+                                    </option>
+                                    <option name="myIndex" value="1" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="1" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task2">
+                      <value>
+                        <Task>
+                          <option name="index" value="2" />
+                          <option name="name" value="Your first unit test" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="test_hello_someone.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="7" />
+                                          <option name="replacementLength" value="57" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="test that the function returns &quot;Hello, World!&quot; when called with the appropriate input argument" />
+                                          <option name="line" value="7" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson1task2hello_someone_1" />
+                                          <option name="possible_answer" value="self.assertEqual(hello_someone(&quot;World&quot;), &quot;Hello, World!&quot;)" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="test that the function returns &quot;Hello, World!&quot; when called with the appropriate input argument" />
+                                          <option name="myReplacementLength" value="57" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                      </list>
+                                    </option>
+                                    <option name="myIndex" value="1" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="2" />
+                        </Task>
+                      </value>
+                    </entry>
+                  </map>
+                </option>
+              </Lesson>
+            </value>
+          </entry>
+        </map>
+      </option>
+    </course>
+  </component>
+</project>
