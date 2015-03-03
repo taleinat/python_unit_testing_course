@@ -11,13 +11,11 @@ def abort_tests(message="Critical failure; aborting tests."):
 
 
 def reload_module(module):
-    # if sys.version_info < (3,):
-    #     reload(module)
-    # else:
-    #     import importlib
-    #     importlib.reload(module)
-    del sys.modules[module.__name__]
-    return module.__loader__.load_module(module.__name__)
+    if sys.version_info < (3,):
+        reload(module)
+    else:
+        import importlib
+        importlib.reload(module)
 
 
 def run_module_tests(module):
