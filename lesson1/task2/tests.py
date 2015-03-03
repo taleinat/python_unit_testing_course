@@ -7,7 +7,6 @@ from test_helper import run_common_tests, test_answer_placeholders_text_deleted,
 
 
 if __name__ == '__main__':
-    import sys
     from hello_someone import hello_someone
 
     run_common_tests()
