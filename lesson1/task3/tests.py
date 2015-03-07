@@ -23,15 +23,15 @@ if __name__ == '__main__':
         for test_case, formatted_traceback
         in test_result.failures
     ):
-        failed("proper test failed")
+        failed("test_failure should fail")
     else:
-        passed("proper test failed")
+        passed("test_failure should fail")
 
     if not any(
         "test_error" in formatted_traceback
         for test_case, formatted_traceback
         in test_result.errors
     ):
-        failed("proper test errored")
+        failed("test_error should cause an error")
     else:
-        passed("proper test errored")
+        passed("test_error should cause an error")
