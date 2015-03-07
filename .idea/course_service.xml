@@ -96,7 +96,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="31" />
                                   <option name="line" value="5" />
                                   <option name="replacementLength" value="4" />
                                   <option name="start" value="8" />
@@ -105,14 +105,14 @@
                                   <option name="start" value="8" />
                                   <option name="hint" value="lesson1task3possible_test_results_1" />
                                   <option name="possible_answer" value="pass" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="31" />
                                   <option name="myTaskText" value="write a test which will succeed" />
                                   <option name="myReplacementLength" value="4" />
                                   <option name="myIndex" value="1" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="2" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="28" />
                                   <option name="line" value="8" />
                                   <option name="replacementLength" value="29" />
                                   <option name="start" value="8" />
@@ -121,14 +121,14 @@
                                   <option name="start" value="8" />
                                   <option name="hint" value="lesson1task3possible_test_results_2" />
                                   <option name="possible_answer" value="self.assertEqual(True, False)" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="28" />
                                   <option name="myTaskText" value="write a test which will fail" />
                                   <option name="myReplacementLength" value="29" />
                                   <option name="myIndex" value="2" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="3" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="38" />
                                   <option name="line" value="11" />
                                   <option name="replacementLength" value="17" />
                                   <option name="start" value="8" />
@@ -137,7 +137,7 @@
                                   <option name="start" value="8" />
                                   <option name="hint" value="lesson1task3possible_test_results_3" />
                                   <option name="possible_answer" value="raise Exception()" />
-                                  <option name="length" value="0" />
+                                  <option name="length" value="38" />
                                   <option name="myTaskText" value="write a test which will cause an error" />
                                   <option name="myReplacementLength" value="17" />
                                   <option name="myIndex" value="3" />
@@ -251,7 +251,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="31" />
                                       <option name="line" value="5" />
                                       <option name="replacementLength" value="4" />
                                       <option name="start" value="8" />
@@ -260,14 +260,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task3possible_test_results_1" />
                                       <option name="possible_answer" value="pass" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="31" />
                                       <option name="myTaskText" value="write a test which will succeed" />
                                       <option name="myReplacementLength" value="4" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="28" />
                                       <option name="line" value="8" />
                                       <option name="replacementLength" value="29" />
                                       <option name="start" value="8" />
@@ -276,14 +276,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task3possible_test_results_2" />
                                       <option name="possible_answer" value="self.assertEqual(True, False)" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="28" />
                                       <option name="myTaskText" value="write a test which will fail" />
                                       <option name="myReplacementLength" value="29" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="38" />
                                       <option name="line" value="11" />
                                       <option name="replacementLength" value="17" />
                                       <option name="start" value="8" />
@@ -292,7 +292,7 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task3possible_test_results_3" />
                                       <option name="possible_answer" value="raise Exception()" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="38" />
                                       <option name="myTaskText" value="write a test which will cause an error" />
                                       <option name="myReplacementLength" value="17" />
                                       <option name="myIndex" value="3" />
@@ -306,6 +306,427 @@
                         </map>
                       </option>
                       <option name="myIndex" value="3" />
+                    </Task>
+                  </value>
+                </entry>
+              </map>
+            </option>
+          </Lesson>
+          <Lesson>
+            <option name="index" value="2" />
+            <option name="name" value="Assertion Types" />
+            <option name="task_list">
+              <list>
+                <Task>
+                  <option name="index" value="1" />
+                  <option name="name" value="Assertion Types" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="truthiness.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="16" />
+                                  <option name="line" value="6" />
+                                  <option name="replacementLength" value="19" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="write this test!" />
+                                  <option name="line" value="6" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson2task1truthiness_1" />
+                                  <option name="possible_answer" value="self.assertFalse(0)" />
+                                  <option name="length" value="16" />
+                                  <option name="myTaskText" value="write this test!" />
+                                  <option name="myReplacementLength" value="19" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="2" />
+                                  <option name="length" value="16" />
+                                  <option name="line" value="10" />
+                                  <option name="replacementLength" value="18" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="write this test!" />
+                                  <option name="line" value="10" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="self.assertTrue(1)" />
+                                  <option name="length" value="16" />
+                                  <option name="myTaskText" value="write this test!" />
+                                  <option name="myReplacementLength" value="18" />
+                                  <option name="myIndex" value="2" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="3" />
+                                  <option name="length" value="16" />
+                                  <option name="line" value="14" />
+                                  <option name="replacementLength" value="18" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="write this test!" />
+                                  <option name="line" value="14" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="self.assertTrue(3)" />
+                                  <option name="length" value="16" />
+                                  <option name="myTaskText" value="write this test!" />
+                                  <option name="myReplacementLength" value="18" />
+                                  <option name="myIndex" value="3" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="4" />
+                                  <option name="length" value="10" />
+                                  <option name="line" value="20" />
+                                  <option name="replacementLength" value="5" />
+                                  <option name="start" value="19" />
+                                  <option name="taskText" value="MethodName" />
+                                  <option name="line" value="20" />
+                                  <option name="start" value="19" />
+                                  <option name="hint" value="lesson2task1truthiness_4" />
+                                  <option name="possible_answer" value="False" />
+                                  <option name="length" value="10" />
+                                  <option name="myTaskText" value="MethodName" />
+                                  <option name="myReplacementLength" value="5" />
+                                  <option name="myIndex" value="4" />
+                                </TaskWindow>
+                              </list>
+                            </option>
+                            <option name="myIndex" value="1" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="1" />
+                </Task>
+                <Task>
+                  <option name="index" value="2" />
+                  <option name="name" value="Comparison Assertions" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="comparison_assertions.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="10" />
+                                  <option name="replacementLength" value="107" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="write this test!" />
+                                  <option name="line" value="10" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="for n_attempt in range(100):&#10;            value = random_not_42()&#10;            self.assertNotEqual(value, 42)" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="write this test!" />
+                                  <option name="myReplacementLength" value="107" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="2" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="55" />
+                                  <option name="replacementLength" value="37" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="write this test!" />
+                                  <option name="line" value="55" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson2task2comparison_assertions_5" />
+                                  <option name="possible_answer" value="self.assertIsNotNone(find_foo('foo'))" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="write this test!" />
+                                  <option name="myReplacementLength" value="37" />
+                                  <option name="myIndex" value="2" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="3" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="59" />
+                                  <option name="replacementLength" value="77" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="write this test!" />
+                                  <option name="line" value="59" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson2task2comparison_assertions_6" />
+                                  <option name="possible_answer" value="for s in self.strings_with_foo:&#10;            self.assertIsNotNone(find_foo(s))" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="write this test!" />
+                                  <option name="myReplacementLength" value="77" />
+                                  <option name="myIndex" value="3" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="4" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="64" />
+                                  <option name="replacementLength" value="77" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="write this test!" />
+                                  <option name="line" value="64" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson2task2comparison_assertions_7" />
+                                  <option name="possible_answer" value="for s in self.strings_without_foo:&#10;            self.assertIsNone(find_foo(s))" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="write this test!" />
+                                  <option name="myReplacementLength" value="77" />
+                                  <option name="myIndex" value="4" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="5" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="77" />
+                                  <option name="replacementLength" value="82" />
+                                  <option name="start" value="12" />
+                                  <option name="taskText" value="check the returned value" />
+                                  <option name="line" value="77" />
+                                  <option name="start" value="12" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="self.assertGreaterEqual(value, start)&#10;            self.assertLessEqual(value, end)" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="check the returned value" />
+                                  <option name="myReplacementLength" value="82" />
+                                  <option name="myIndex" value="5" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="6" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="90" />
+                                  <option name="replacementLength" value="72" />
+                                  <option name="start" value="12" />
+                                  <option name="taskText" value="check the returned value" />
+                                  <option name="line" value="90" />
+                                  <option name="start" value="12" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="self.assertGreater(value, start)&#10;            self.assertLess(value, end)" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="check the returned value" />
+                                  <option name="myReplacementLength" value="72" />
+                                  <option name="myIndex" value="6" />
+                                </TaskWindow>
+                              </list>
+                            </option>
+                            <option name="myIndex" value="2" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="2" />
+                </Task>
+              </list>
+            </option>
+            <option name="myIndex" value="2" />
+            <option name="myTasksMap">
+              <map>
+                <entry key="task1">
+                  <value>
+                    <Task>
+                      <option name="index" value="1" />
+                      <option name="name" value="Assertion Types" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="truthiness.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="16" />
+                                      <option name="line" value="6" />
+                                      <option name="replacementLength" value="19" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="6" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task1truthiness_1" />
+                                      <option name="possible_answer" value="self.assertFalse(0)" />
+                                      <option name="length" value="16" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="19" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="16" />
+                                      <option name="line" value="10" />
+                                      <option name="replacementLength" value="18" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="10" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self.assertTrue(1)" />
+                                      <option name="length" value="16" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="18" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="3" />
+                                      <option name="length" value="16" />
+                                      <option name="line" value="14" />
+                                      <option name="replacementLength" value="18" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="14" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self.assertTrue(3)" />
+                                      <option name="length" value="16" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="18" />
+                                      <option name="myIndex" value="3" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="4" />
+                                      <option name="length" value="10" />
+                                      <option name="line" value="20" />
+                                      <option name="replacementLength" value="5" />
+                                      <option name="start" value="19" />
+                                      <option name="taskText" value="MethodName" />
+                                      <option name="line" value="20" />
+                                      <option name="start" value="19" />
+                                      <option name="hint" value="lesson2task1truthiness_4" />
+                                      <option name="possible_answer" value="False" />
+                                      <option name="length" value="10" />
+                                      <option name="myTaskText" value="MethodName" />
+                                      <option name="myReplacementLength" value="5" />
+                                      <option name="myIndex" value="4" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="1" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="1" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task2">
+                  <value>
+                    <Task>
+                      <option name="index" value="2" />
+                      <option name="name" value="Comparison Assertions" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="comparison_assertions.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="10" />
+                                      <option name="replacementLength" value="107" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="10" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="for n_attempt in range(100):&#10;            value = random_not_42()&#10;            self.assertNotEqual(value, 42)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="107" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="55" />
+                                      <option name="replacementLength" value="37" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="55" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task2comparison_assertions_5" />
+                                      <option name="possible_answer" value="self.assertIsNotNone(find_foo('foo'))" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="37" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="3" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="59" />
+                                      <option name="replacementLength" value="77" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="59" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task2comparison_assertions_6" />
+                                      <option name="possible_answer" value="for s in self.strings_with_foo:&#10;            self.assertIsNotNone(find_foo(s))" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="77" />
+                                      <option name="myIndex" value="3" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="4" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="64" />
+                                      <option name="replacementLength" value="77" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="64" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task2comparison_assertions_7" />
+                                      <option name="possible_answer" value="for s in self.strings_without_foo:&#10;            self.assertIsNone(find_foo(s))" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="77" />
+                                      <option name="myIndex" value="4" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="5" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="77" />
+                                      <option name="replacementLength" value="82" />
+                                      <option name="start" value="12" />
+                                      <option name="taskText" value="check the returned value" />
+                                      <option name="line" value="77" />
+                                      <option name="start" value="12" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self.assertGreaterEqual(value, start)&#10;            self.assertLessEqual(value, end)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="check the returned value" />
+                                      <option name="myReplacementLength" value="82" />
+                                      <option name="myIndex" value="5" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="6" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="90" />
+                                      <option name="replacementLength" value="72" />
+                                      <option name="start" value="12" />
+                                      <option name="taskText" value="check the returned value" />
+                                      <option name="line" value="90" />
+                                      <option name="start" value="12" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self.assertGreater(value, start)&#10;            self.assertLess(value, end)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="check the returned value" />
+                                      <option name="myReplacementLength" value="72" />
+                                      <option name="myIndex" value="6" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="2" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="2" />
                     </Task>
                   </value>
                 </entry>
@@ -410,7 +831,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="31" />
                                       <option name="line" value="5" />
                                       <option name="replacementLength" value="4" />
                                       <option name="start" value="8" />
@@ -419,14 +840,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task3possible_test_results_1" />
                                       <option name="possible_answer" value="pass" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="31" />
                                       <option name="myTaskText" value="write a test which will succeed" />
                                       <option name="myReplacementLength" value="4" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="28" />
                                       <option name="line" value="8" />
                                       <option name="replacementLength" value="29" />
                                       <option name="start" value="8" />
@@ -435,14 +856,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task3possible_test_results_2" />
                                       <option name="possible_answer" value="self.assertEqual(True, False)" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="28" />
                                       <option name="myTaskText" value="write a test which will fail" />
                                       <option name="myReplacementLength" value="29" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="38" />
                                       <option name="line" value="11" />
                                       <option name="replacementLength" value="17" />
                                       <option name="start" value="8" />
@@ -451,7 +872,7 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task3possible_test_results_3" />
                                       <option name="possible_answer" value="raise Exception()" />
-                                      <option name="length" value="0" />
+                                      <option name="length" value="38" />
                                       <option name="myTaskText" value="write a test which will cause an error" />
                                       <option name="myReplacementLength" value="17" />
                                       <option name="myIndex" value="3" />
@@ -565,7 +986,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="31" />
                                           <option name="line" value="5" />
                                           <option name="replacementLength" value="4" />
                                           <option name="start" value="8" />
@@ -574,14 +995,14 @@
                                           <option name="start" value="8" />
                                           <option name="hint" value="lesson1task3possible_test_results_1" />
                                           <option name="possible_answer" value="pass" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="31" />
                                           <option name="myTaskText" value="write a test which will succeed" />
                                           <option name="myReplacementLength" value="4" />
                                           <option name="myIndex" value="1" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="2" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="28" />
                                           <option name="line" value="8" />
                                           <option name="replacementLength" value="29" />
                                           <option name="start" value="8" />
@@ -590,14 +1011,14 @@
                                           <option name="start" value="8" />
                                           <option name="hint" value="lesson1task3possible_test_results_2" />
                                           <option name="possible_answer" value="self.assertEqual(True, False)" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="28" />
                                           <option name="myTaskText" value="write a test which will fail" />
                                           <option name="myReplacementLength" value="29" />
                                           <option name="myIndex" value="2" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="3" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="38" />
                                           <option name="line" value="11" />
                                           <option name="replacementLength" value="17" />
                                           <option name="start" value="8" />
@@ -606,7 +1027,7 @@
                                           <option name="start" value="8" />
                                           <option name="hint" value="lesson1task3possible_test_results_3" />
                                           <option name="possible_answer" value="raise Exception()" />
-                                          <option name="length" value="0" />
+                                          <option name="length" value="38" />
                                           <option name="myTaskText" value="write a test which will cause an error" />
                                           <option name="myReplacementLength" value="17" />
                                           <option name="myIndex" value="3" />
@@ -620,6 +1041,431 @@
                             </map>
                           </option>
                           <option name="myIndex" value="3" />
+                        </Task>
+                      </value>
+                    </entry>
+                  </map>
+                </option>
+              </Lesson>
+            </value>
+          </entry>
+          <entry key="lesson2">
+            <value>
+              <Lesson>
+                <option name="index" value="2" />
+                <option name="name" value="Assertion Types" />
+                <option name="task_list">
+                  <list>
+                    <Task>
+                      <option name="index" value="1" />
+                      <option name="name" value="Assertion Types" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="truthiness.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="16" />
+                                      <option name="line" value="6" />
+                                      <option name="replacementLength" value="19" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="6" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task1truthiness_1" />
+                                      <option name="possible_answer" value="self.assertFalse(0)" />
+                                      <option name="length" value="16" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="19" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="16" />
+                                      <option name="line" value="10" />
+                                      <option name="replacementLength" value="18" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="10" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self.assertTrue(1)" />
+                                      <option name="length" value="16" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="18" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="3" />
+                                      <option name="length" value="16" />
+                                      <option name="line" value="14" />
+                                      <option name="replacementLength" value="18" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="14" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self.assertTrue(3)" />
+                                      <option name="length" value="16" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="18" />
+                                      <option name="myIndex" value="3" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="4" />
+                                      <option name="length" value="10" />
+                                      <option name="line" value="20" />
+                                      <option name="replacementLength" value="5" />
+                                      <option name="start" value="19" />
+                                      <option name="taskText" value="MethodName" />
+                                      <option name="line" value="20" />
+                                      <option name="start" value="19" />
+                                      <option name="hint" value="lesson2task1truthiness_4" />
+                                      <option name="possible_answer" value="False" />
+                                      <option name="length" value="10" />
+                                      <option name="myTaskText" value="MethodName" />
+                                      <option name="myReplacementLength" value="5" />
+                                      <option name="myIndex" value="4" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="1" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="1" />
+                    </Task>
+                    <Task>
+                      <option name="index" value="2" />
+                      <option name="name" value="Comparison Assertions" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="comparison_assertions.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="10" />
+                                      <option name="replacementLength" value="107" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="10" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="for n_attempt in range(100):&#10;            value = random_not_42()&#10;            self.assertNotEqual(value, 42)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="107" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="55" />
+                                      <option name="replacementLength" value="37" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="55" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task2comparison_assertions_5" />
+                                      <option name="possible_answer" value="self.assertIsNotNone(find_foo('foo'))" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="37" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="3" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="59" />
+                                      <option name="replacementLength" value="77" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="59" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task2comparison_assertions_6" />
+                                      <option name="possible_answer" value="for s in self.strings_with_foo:&#10;            self.assertIsNotNone(find_foo(s))" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="77" />
+                                      <option name="myIndex" value="3" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="4" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="64" />
+                                      <option name="replacementLength" value="77" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="write this test!" />
+                                      <option name="line" value="64" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task2comparison_assertions_7" />
+                                      <option name="possible_answer" value="for s in self.strings_without_foo:&#10;            self.assertIsNone(find_foo(s))" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="write this test!" />
+                                      <option name="myReplacementLength" value="77" />
+                                      <option name="myIndex" value="4" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="5" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="77" />
+                                      <option name="replacementLength" value="82" />
+                                      <option name="start" value="12" />
+                                      <option name="taskText" value="check the returned value" />
+                                      <option name="line" value="77" />
+                                      <option name="start" value="12" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self.assertGreaterEqual(value, start)&#10;            self.assertLessEqual(value, end)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="check the returned value" />
+                                      <option name="myReplacementLength" value="82" />
+                                      <option name="myIndex" value="5" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="6" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="90" />
+                                      <option name="replacementLength" value="72" />
+                                      <option name="start" value="12" />
+                                      <option name="taskText" value="check the returned value" />
+                                      <option name="line" value="90" />
+                                      <option name="start" value="12" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self.assertGreater(value, start)&#10;            self.assertLess(value, end)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="check the returned value" />
+                                      <option name="myReplacementLength" value="72" />
+                                      <option name="myIndex" value="6" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="2" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="2" />
+                    </Task>
+                  </list>
+                </option>
+                <option name="myIndex" value="2" />
+                <option name="myTasksMap">
+                  <map>
+                    <entry key="task1">
+                      <value>
+                        <Task>
+                          <option name="index" value="1" />
+                          <option name="name" value="Assertion Types" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="truthiness.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="16" />
+                                          <option name="line" value="6" />
+                                          <option name="replacementLength" value="19" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="write this test!" />
+                                          <option name="line" value="6" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson2task1truthiness_1" />
+                                          <option name="possible_answer" value="self.assertFalse(0)" />
+                                          <option name="length" value="16" />
+                                          <option name="myTaskText" value="write this test!" />
+                                          <option name="myReplacementLength" value="19" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="2" />
+                                          <option name="length" value="16" />
+                                          <option name="line" value="10" />
+                                          <option name="replacementLength" value="18" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="write this test!" />
+                                          <option name="line" value="10" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="self.assertTrue(1)" />
+                                          <option name="length" value="16" />
+                                          <option name="myTaskText" value="write this test!" />
+                                          <option name="myReplacementLength" value="18" />
+                                          <option name="myIndex" value="2" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="3" />
+                                          <option name="length" value="16" />
+                                          <option name="line" value="14" />
+                                          <option name="replacementLength" value="18" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="write this test!" />
+                                          <option name="line" value="14" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="self.assertTrue(3)" />
+                                          <option name="length" value="16" />
+                                          <option name="myTaskText" value="write this test!" />
+                                          <option name="myReplacementLength" value="18" />
+                                          <option name="myIndex" value="3" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="4" />
+                                          <option name="length" value="10" />
+                                          <option name="line" value="20" />
+                                          <option name="replacementLength" value="5" />
+                                          <option name="start" value="19" />
+                                          <option name="taskText" value="MethodName" />
+                                          <option name="line" value="20" />
+                                          <option name="start" value="19" />
+                                          <option name="hint" value="lesson2task1truthiness_4" />
+                                          <option name="possible_answer" value="False" />
+                                          <option name="length" value="10" />
+                                          <option name="myTaskText" value="MethodName" />
+                                          <option name="myReplacementLength" value="5" />
+                                          <option name="myIndex" value="4" />
+                                        </TaskWindow>
+                                      </list>
+                                    </option>
+                                    <option name="myIndex" value="1" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="1" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task2">
+                      <value>
+                        <Task>
+                          <option name="index" value="2" />
+                          <option name="name" value="Comparison Assertions" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="comparison_assertions.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="10" />
+                                          <option name="replacementLength" value="107" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="write this test!" />
+                                          <option name="line" value="10" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="for n_attempt in range(100):&#10;            value = random_not_42()&#10;            self.assertNotEqual(value, 42)" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="write this test!" />
+                                          <option name="myReplacementLength" value="107" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="2" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="55" />
+                                          <option name="replacementLength" value="37" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="write this test!" />
+                                          <option name="line" value="55" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson2task2comparison_assertions_5" />
+                                          <option name="possible_answer" value="self.assertIsNotNone(find_foo('foo'))" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="write this test!" />
+                                          <option name="myReplacementLength" value="37" />
+                                          <option name="myIndex" value="2" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="3" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="59" />
+                                          <option name="replacementLength" value="77" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="write this test!" />
+                                          <option name="line" value="59" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson2task2comparison_assertions_6" />
+                                          <option name="possible_answer" value="for s in self.strings_with_foo:&#10;            self.assertIsNotNone(find_foo(s))" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="write this test!" />
+                                          <option name="myReplacementLength" value="77" />
+                                          <option name="myIndex" value="3" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="4" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="64" />
+                                          <option name="replacementLength" value="77" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="write this test!" />
+                                          <option name="line" value="64" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson2task2comparison_assertions_7" />
+                                          <option name="possible_answer" value="for s in self.strings_without_foo:&#10;            self.assertIsNone(find_foo(s))" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="write this test!" />
+                                          <option name="myReplacementLength" value="77" />
+                                          <option name="myIndex" value="4" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="5" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="77" />
+                                          <option name="replacementLength" value="82" />
+                                          <option name="start" value="12" />
+                                          <option name="taskText" value="check the returned value" />
+                                          <option name="line" value="77" />
+                                          <option name="start" value="12" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="self.assertGreaterEqual(value, start)&#10;            self.assertLessEqual(value, end)" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="check the returned value" />
+                                          <option name="myReplacementLength" value="82" />
+                                          <option name="myIndex" value="5" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="6" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="90" />
+                                          <option name="replacementLength" value="72" />
+                                          <option name="start" value="12" />
+                                          <option name="taskText" value="check the returned value" />
+                                          <option name="line" value="90" />
+                                          <option name="start" value="12" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="self.assertGreater(value, start)&#10;            self.assertLess(value, end)" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="check the returned value" />
+                                          <option name="myReplacementLength" value="72" />
+                                          <option name="myIndex" value="6" />
+                                        </TaskWindow>
+                                      </list>
+                                    </option>
+                                    <option name="myIndex" value="2" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="2" />
                         </Task>
                       </value>
                     </entry>
