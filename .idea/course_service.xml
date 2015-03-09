@@ -24,7 +24,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="24" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="2" />
                                   <option name="replacementLength" value="22" />
                                   <option name="start" value="4" />
@@ -33,7 +33,7 @@
                                   <option name="start" value="4" />
                                   <option name="hint" value="lesson1task1hello_world_1" />
                                   <option name="possible_answer" value="return &quot;Hello, World!&quot;" />
-                                  <option name="length" value="24" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value="implement this function!" />
                                   <option name="myReplacementLength" value="22" />
                                   <option name="myIndex" value="1" />
@@ -60,7 +60,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="94" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="7" />
                                   <option name="replacementLength" value="57" />
                                   <option name="start" value="8" />
@@ -69,7 +69,7 @@
                                   <option name="start" value="8" />
                                   <option name="hint" value="lesson1task2hello_someone_1" />
                                   <option name="possible_answer" value="self.assertEqual(hello_someone(&quot;World&quot;), &quot;Hello, World!&quot;)" />
-                                  <option name="length" value="94" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value="test that the function returns &quot;Hello, World!&quot; when called with the appropriate input argument" />
                                   <option name="myReplacementLength" value="57" />
                                   <option name="myIndex" value="1" />
@@ -96,7 +96,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="31" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="5" />
                                   <option name="replacementLength" value="4" />
                                   <option name="start" value="8" />
@@ -105,14 +105,14 @@
                                   <option name="start" value="8" />
                                   <option name="hint" value="lesson1task3possible_test_results_1" />
                                   <option name="possible_answer" value="pass" />
-                                  <option name="length" value="31" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value="write a test which will succeed" />
                                   <option name="myReplacementLength" value="4" />
                                   <option name="myIndex" value="1" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="2" />
-                                  <option name="length" value="28" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="8" />
                                   <option name="replacementLength" value="29" />
                                   <option name="start" value="8" />
@@ -121,14 +121,14 @@
                                   <option name="start" value="8" />
                                   <option name="hint" value="lesson1task3possible_test_results_2" />
                                   <option name="possible_answer" value="self.assertEqual(True, False)" />
-                                  <option name="length" value="28" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value="write a test which will fail" />
                                   <option name="myReplacementLength" value="29" />
                                   <option name="myIndex" value="2" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="3" />
-                                  <option name="length" value="38" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="11" />
                                   <option name="replacementLength" value="17" />
                                   <option name="start" value="8" />
@@ -137,7 +137,7 @@
                                   <option name="start" value="8" />
                                   <option name="hint" value="lesson1task3possible_test_results_3" />
                                   <option name="possible_answer" value="raise Exception()" />
-                                  <option name="length" value="38" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value="write a test which will cause an error" />
                                   <option name="myReplacementLength" value="17" />
                                   <option name="myIndex" value="3" />
@@ -171,7 +171,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="24" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="22" />
                                       <option name="start" value="4" />
@@ -180,7 +180,7 @@
                                       <option name="start" value="4" />
                                       <option name="hint" value="lesson1task1hello_world_1" />
                                       <option name="possible_answer" value="return &quot;Hello, World!&quot;" />
-                                      <option name="length" value="24" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="implement this function!" />
                                       <option name="myReplacementLength" value="22" />
                                       <option name="myIndex" value="1" />
@@ -211,7 +211,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="94" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="7" />
                                       <option name="replacementLength" value="57" />
                                       <option name="start" value="8" />
@@ -220,7 +220,7 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task2hello_someone_1" />
                                       <option name="possible_answer" value="self.assertEqual(hello_someone(&quot;World&quot;), &quot;Hello, World!&quot;)" />
-                                      <option name="length" value="94" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="test that the function returns &quot;Hello, World!&quot; when called with the appropriate input argument" />
                                       <option name="myReplacementLength" value="57" />
                                       <option name="myIndex" value="1" />
@@ -251,7 +251,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="31" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="5" />
                                       <option name="replacementLength" value="4" />
                                       <option name="start" value="8" />
@@ -260,14 +260,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task3possible_test_results_1" />
                                       <option name="possible_answer" value="pass" />
-                                      <option name="length" value="31" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="write a test which will succeed" />
                                       <option name="myReplacementLength" value="4" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="28" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="8" />
                                       <option name="replacementLength" value="29" />
                                       <option name="start" value="8" />
@@ -276,14 +276,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task3possible_test_results_2" />
                                       <option name="possible_answer" value="self.assertEqual(True, False)" />
-                                      <option name="length" value="28" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="write a test which will fail" />
                                       <option name="myReplacementLength" value="29" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="38" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="11" />
                                       <option name="replacementLength" value="17" />
                                       <option name="start" value="8" />
@@ -292,7 +292,7 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task3possible_test_results_3" />
                                       <option name="possible_answer" value="raise Exception()" />
-                                      <option name="length" value="38" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="write a test which will cause an error" />
                                       <option name="myReplacementLength" value="17" />
                                       <option name="myIndex" value="3" />
@@ -963,7 +963,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="24" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="2" />
                                       <option name="replacementLength" value="22" />
                                       <option name="start" value="4" />
@@ -972,7 +972,7 @@
                                       <option name="start" value="4" />
                                       <option name="hint" value="lesson1task1hello_world_1" />
                                       <option name="possible_answer" value="return &quot;Hello, World!&quot;" />
-                                      <option name="length" value="24" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="implement this function!" />
                                       <option name="myReplacementLength" value="22" />
                                       <option name="myIndex" value="1" />
@@ -999,7 +999,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="94" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="7" />
                                       <option name="replacementLength" value="57" />
                                       <option name="start" value="8" />
@@ -1008,7 +1008,7 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task2hello_someone_1" />
                                       <option name="possible_answer" value="self.assertEqual(hello_someone(&quot;World&quot;), &quot;Hello, World!&quot;)" />
-                                      <option name="length" value="94" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="test that the function returns &quot;Hello, World!&quot; when called with the appropriate input argument" />
                                       <option name="myReplacementLength" value="57" />
                                       <option name="myIndex" value="1" />
@@ -1035,7 +1035,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="31" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="5" />
                                       <option name="replacementLength" value="4" />
                                       <option name="start" value="8" />
@@ -1044,14 +1044,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task3possible_test_results_1" />
                                       <option name="possible_answer" value="pass" />
-                                      <option name="length" value="31" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="write a test which will succeed" />
                                       <option name="myReplacementLength" value="4" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="28" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="8" />
                                       <option name="replacementLength" value="29" />
                                       <option name="start" value="8" />
@@ -1060,14 +1060,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task3possible_test_results_2" />
                                       <option name="possible_answer" value="self.assertEqual(True, False)" />
-                                      <option name="length" value="28" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="write a test which will fail" />
                                       <option name="myReplacementLength" value="29" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="38" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="11" />
                                       <option name="replacementLength" value="17" />
                                       <option name="start" value="8" />
@@ -1076,7 +1076,7 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson1task3possible_test_results_3" />
                                       <option name="possible_answer" value="raise Exception()" />
-                                      <option name="length" value="38" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="write a test which will cause an error" />
                                       <option name="myReplacementLength" value="17" />
                                       <option name="myIndex" value="3" />
@@ -1110,7 +1110,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="24" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="2" />
                                           <option name="replacementLength" value="22" />
                                           <option name="start" value="4" />
@@ -1119,7 +1119,7 @@
                                           <option name="start" value="4" />
                                           <option name="hint" value="lesson1task1hello_world_1" />
                                           <option name="possible_answer" value="return &quot;Hello, World!&quot;" />
-                                          <option name="length" value="24" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value="implement this function!" />
                                           <option name="myReplacementLength" value="22" />
                                           <option name="myIndex" value="1" />
@@ -1150,7 +1150,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="94" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="7" />
                                           <option name="replacementLength" value="57" />
                                           <option name="start" value="8" />
@@ -1159,7 +1159,7 @@
                                           <option name="start" value="8" />
                                           <option name="hint" value="lesson1task2hello_someone_1" />
                                           <option name="possible_answer" value="self.assertEqual(hello_someone(&quot;World&quot;), &quot;Hello, World!&quot;)" />
-                                          <option name="length" value="94" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value="test that the function returns &quot;Hello, World!&quot; when called with the appropriate input argument" />
                                           <option name="myReplacementLength" value="57" />
                                           <option name="myIndex" value="1" />
@@ -1190,7 +1190,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="31" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="5" />
                                           <option name="replacementLength" value="4" />
                                           <option name="start" value="8" />
@@ -1199,14 +1199,14 @@
                                           <option name="start" value="8" />
                                           <option name="hint" value="lesson1task3possible_test_results_1" />
                                           <option name="possible_answer" value="pass" />
-                                          <option name="length" value="31" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value="write a test which will succeed" />
                                           <option name="myReplacementLength" value="4" />
                                           <option name="myIndex" value="1" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="2" />
-                                          <option name="length" value="28" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="8" />
                                           <option name="replacementLength" value="29" />
                                           <option name="start" value="8" />
@@ -1215,14 +1215,14 @@
                                           <option name="start" value="8" />
                                           <option name="hint" value="lesson1task3possible_test_results_2" />
                                           <option name="possible_answer" value="self.assertEqual(True, False)" />
-                                          <option name="length" value="28" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value="write a test which will fail" />
                                           <option name="myReplacementLength" value="29" />
                                           <option name="myIndex" value="2" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="3" />
-                                          <option name="length" value="38" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="11" />
                                           <option name="replacementLength" value="17" />
                                           <option name="start" value="8" />
@@ -1231,7 +1231,7 @@
                                           <option name="start" value="8" />
                                           <option name="hint" value="lesson1task3possible_test_results_3" />
                                           <option name="possible_answer" value="raise Exception()" />
-                                          <option name="length" value="38" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value="write a test which will cause an error" />
                                           <option name="myReplacementLength" value="17" />
                                           <option name="myIndex" value="3" />
