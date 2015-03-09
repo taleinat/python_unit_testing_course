@@ -100,6 +100,42 @@
                   "hint": "lesson2task1truthiness_4",
                   "possible_answer": "False",
                   "length": 10
+                },
+                {
+                  "line": 30,
+                  "start": 19,
+                  "possible_answer": "False",
+                  "length": 33
+                },
+                {
+                  "line": 31,
+                  "start": 19,
+                  "possible_answer": "True",
+                  "length": 33
+                },
+                {
+                  "line": 34,
+                  "start": 8,
+                  "possible_answer": "self._test_container_class([], [False])",
+                  "length": 49
+                },
+                {
+                  "line": 37,
+                  "start": 8,
+                  "possible_answer": "self._test_container_class((), (False,))",
+                  "length": 49
+                },
+                {
+                  "line": 40,
+                  "start": 8,
+                  "possible_answer": "self._test_container_class(set(), {False})",
+                  "length": 49
+                },
+                {
+                  "line": 43,
+                  "start": 8,
+                  "possible_answer": "self._test_container_class({}, {False: False})",
+                  "length": 49
                 }
               ]
             }
