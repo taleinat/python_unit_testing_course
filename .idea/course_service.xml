@@ -617,25 +617,6 @@
                   </option>
                   <option name="myIndex" value="3" />
                 </Task>
-                <Task>
-                  <option name="index" value="4" />
-                  <option name="name" value="Exception Assertions" />
-                  <option name="task_files">
-                    <map>
-                      <entry key="file1.py">
-                        <value>
-                          <TaskFile>
-                            <option name="task_windows">
-                              <list />
-                            </option>
-                            <option name="myIndex" value="4" />
-                          </TaskFile>
-                        </value>
-                      </entry>
-                    </map>
-                  </option>
-                  <option name="myIndex" value="4" />
-                </Task>
               </list>
             </option>
             <option name="myIndex" value="2" />
@@ -950,29 +931,6 @@
                         </map>
                       </option>
                       <option name="myIndex" value="3" />
-                    </Task>
-                  </value>
-                </entry>
-                <entry key="task4">
-                  <value>
-                    <Task>
-                      <option name="index" value="4" />
-                      <option name="name" value="Exception Assertions" />
-                      <option name="task_files">
-                        <map>
-                          <entry key="file1.py">
-                            <value>
-                              <TaskFile>
-                                <option name="task_windows">
-                                  <list />
-                                </option>
-                                <option name="myIndex" value="4" />
-                              </TaskFile>
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="myIndex" value="4" />
                     </Task>
                   </value>
                 </entry>
@@ -1602,25 +1560,6 @@
                       </option>
                       <option name="myIndex" value="3" />
                     </Task>
-                    <Task>
-                      <option name="index" value="4" />
-                      <option name="name" value="Exception Assertions" />
-                      <option name="task_files">
-                        <map>
-                          <entry key="file1.py">
-                            <value>
-                              <TaskFile>
-                                <option name="task_windows">
-                                  <list />
-                                </option>
-                                <option name="myIndex" value="4" />
-                              </TaskFile>
-                            </value>
-                          </entry>
-                        </map>
-                      </option>
-                      <option name="myIndex" value="4" />
-                    </Task>
                   </list>
                 </option>
                 <option name="myIndex" value="2" />
@@ -1935,29 +1874,6 @@
                             </map>
                           </option>
                           <option name="myIndex" value="3" />
-                        </Task>
-                      </value>
-                    </entry>
-                    <entry key="task4">
-                      <value>
-                        <Task>
-                          <option name="index" value="4" />
-                          <option name="name" value="Exception Assertions" />
-                          <option name="task_files">
-                            <map>
-                              <entry key="file1.py">
-                                <value>
-                                  <TaskFile>
-                                    <option name="task_windows">
-                                      <list />
-                                    </option>
-                                    <option name="myIndex" value="4" />
-                                  </TaskFile>
-                                </value>
-                              </entry>
-                            </map>
-                          </option>
-                          <option name="myIndex" value="4" />
                         </Task>
                       </value>
                     </entry>

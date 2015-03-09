@@ -1,0 +1,21 @@
+import unittest
+
+
+class TestIntegerTruthiness(unittest.TestCase):
+    def test_zero(self):
+        """check that the thruthiness of the integer zero is False"""
+        self.assertFalse(0)
+
+    def test_one(self):
+        """check that the thruthiness of the integer one is True"""
+        self.assertTrue(1)
+
+    def test_other_value(self):
+        """check the thruthiness of an integer other than zero"""
+        self.assertTrue(3)
+
+
+class TestNoneTruthiness(unittest.TestCase):
+    def test_none(self):
+        """check the thruthiness of None"""
+        self.assertFalse(None)
