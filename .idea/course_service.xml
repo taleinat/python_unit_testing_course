@@ -391,6 +391,102 @@
                                   <option name="myReplacementLength" value="5" />
                                   <option name="myIndex" value="4" />
                                 </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="5" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="30" />
+                                  <option name="replacementLength" value="5" />
+                                  <option name="start" value="19" />
+                                  <option name="taskText" value="choose the proper assetion method" />
+                                  <option name="line" value="30" />
+                                  <option name="start" value="19" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="False" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="choose the proper assetion method" />
+                                  <option name="myReplacementLength" value="5" />
+                                  <option name="myIndex" value="5" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="6" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="31" />
+                                  <option name="replacementLength" value="4" />
+                                  <option name="start" value="19" />
+                                  <option name="taskText" value="choose the proper assetion method" />
+                                  <option name="line" value="31" />
+                                  <option name="start" value="19" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="True" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="choose the proper assetion method" />
+                                  <option name="myReplacementLength" value="4" />
+                                  <option name="myIndex" value="6" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="7" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="34" />
+                                  <option name="replacementLength" value="39" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="implement this test using _test_container_class()" />
+                                  <option name="line" value="34" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="self._test_container_class([], [False])" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                  <option name="myReplacementLength" value="39" />
+                                  <option name="myIndex" value="7" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="8" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="37" />
+                                  <option name="replacementLength" value="40" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="implement this test using _test_container_class()" />
+                                  <option name="line" value="37" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="self._test_container_class((), (False,))" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                  <option name="myReplacementLength" value="40" />
+                                  <option name="myIndex" value="8" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="9" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="40" />
+                                  <option name="replacementLength" value="42" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="implement this test using _test_container_class()" />
+                                  <option name="line" value="40" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="self._test_container_class(set(), {False})" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                  <option name="myReplacementLength" value="42" />
+                                  <option name="myIndex" value="9" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="10" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="43" />
+                                  <option name="replacementLength" value="46" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="implement this test using _test_container_class()" />
+                                  <option name="line" value="43" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="self._test_container_class({}, {False: False})" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                  <option name="myReplacementLength" value="46" />
+                                  <option name="myIndex" value="10" />
+                                </TaskWindow>
                               </list>
                             </option>
                             <option name="myIndex" value="1" />
@@ -697,6 +793,102 @@
                                       <option name="myTaskText" value="MethodName" />
                                       <option name="myReplacementLength" value="5" />
                                       <option name="myIndex" value="4" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="5" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="30" />
+                                      <option name="replacementLength" value="5" />
+                                      <option name="start" value="19" />
+                                      <option name="taskText" value="choose the proper assetion method" />
+                                      <option name="line" value="30" />
+                                      <option name="start" value="19" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="False" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="choose the proper assetion method" />
+                                      <option name="myReplacementLength" value="5" />
+                                      <option name="myIndex" value="5" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="6" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="31" />
+                                      <option name="replacementLength" value="4" />
+                                      <option name="start" value="19" />
+                                      <option name="taskText" value="choose the proper assetion method" />
+                                      <option name="line" value="31" />
+                                      <option name="start" value="19" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="True" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="choose the proper assetion method" />
+                                      <option name="myReplacementLength" value="4" />
+                                      <option name="myIndex" value="6" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="7" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="34" />
+                                      <option name="replacementLength" value="39" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test using _test_container_class()" />
+                                      <option name="line" value="34" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self._test_container_class([], [False])" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                      <option name="myReplacementLength" value="39" />
+                                      <option name="myIndex" value="7" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="8" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="37" />
+                                      <option name="replacementLength" value="40" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test using _test_container_class()" />
+                                      <option name="line" value="37" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self._test_container_class((), (False,))" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                      <option name="myReplacementLength" value="40" />
+                                      <option name="myIndex" value="8" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="9" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="40" />
+                                      <option name="replacementLength" value="42" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test using _test_container_class()" />
+                                      <option name="line" value="40" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self._test_container_class(set(), {False})" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                      <option name="myReplacementLength" value="42" />
+                                      <option name="myIndex" value="9" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="10" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="43" />
+                                      <option name="replacementLength" value="46" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test using _test_container_class()" />
+                                      <option name="line" value="43" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self._test_container_class({}, {False: False})" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                      <option name="myReplacementLength" value="46" />
+                                      <option name="myIndex" value="10" />
                                     </TaskWindow>
                                   </list>
                                 </option>
@@ -1334,6 +1526,102 @@
                                       <option name="myReplacementLength" value="5" />
                                       <option name="myIndex" value="4" />
                                     </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="5" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="30" />
+                                      <option name="replacementLength" value="5" />
+                                      <option name="start" value="19" />
+                                      <option name="taskText" value="choose the proper assetion method" />
+                                      <option name="line" value="30" />
+                                      <option name="start" value="19" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="False" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="choose the proper assetion method" />
+                                      <option name="myReplacementLength" value="5" />
+                                      <option name="myIndex" value="5" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="6" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="31" />
+                                      <option name="replacementLength" value="4" />
+                                      <option name="start" value="19" />
+                                      <option name="taskText" value="choose the proper assetion method" />
+                                      <option name="line" value="31" />
+                                      <option name="start" value="19" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="True" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="choose the proper assetion method" />
+                                      <option name="myReplacementLength" value="4" />
+                                      <option name="myIndex" value="6" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="7" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="34" />
+                                      <option name="replacementLength" value="39" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test using _test_container_class()" />
+                                      <option name="line" value="34" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self._test_container_class([], [False])" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                      <option name="myReplacementLength" value="39" />
+                                      <option name="myIndex" value="7" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="8" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="37" />
+                                      <option name="replacementLength" value="40" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test using _test_container_class()" />
+                                      <option name="line" value="37" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self._test_container_class((), (False,))" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                      <option name="myReplacementLength" value="40" />
+                                      <option name="myIndex" value="8" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="9" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="40" />
+                                      <option name="replacementLength" value="42" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test using _test_container_class()" />
+                                      <option name="line" value="40" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self._test_container_class(set(), {False})" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                      <option name="myReplacementLength" value="42" />
+                                      <option name="myIndex" value="9" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="10" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="43" />
+                                      <option name="replacementLength" value="46" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test using _test_container_class()" />
+                                      <option name="line" value="43" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self._test_container_class({}, {False: False})" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                      <option name="myReplacementLength" value="46" />
+                                      <option name="myIndex" value="10" />
+                                    </TaskWindow>
                                   </list>
                                 </option>
                                 <option name="myIndex" value="1" />
@@ -1640,6 +1928,102 @@
                                           <option name="myTaskText" value="MethodName" />
                                           <option name="myReplacementLength" value="5" />
                                           <option name="myIndex" value="4" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="5" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="30" />
+                                          <option name="replacementLength" value="5" />
+                                          <option name="start" value="19" />
+                                          <option name="taskText" value="choose the proper assetion method" />
+                                          <option name="line" value="30" />
+                                          <option name="start" value="19" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="False" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="choose the proper assetion method" />
+                                          <option name="myReplacementLength" value="5" />
+                                          <option name="myIndex" value="5" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="6" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="31" />
+                                          <option name="replacementLength" value="4" />
+                                          <option name="start" value="19" />
+                                          <option name="taskText" value="choose the proper assetion method" />
+                                          <option name="line" value="31" />
+                                          <option name="start" value="19" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="True" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="choose the proper assetion method" />
+                                          <option name="myReplacementLength" value="4" />
+                                          <option name="myIndex" value="6" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="7" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="34" />
+                                          <option name="replacementLength" value="39" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="implement this test using _test_container_class()" />
+                                          <option name="line" value="34" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="self._test_container_class([], [False])" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                          <option name="myReplacementLength" value="39" />
+                                          <option name="myIndex" value="7" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="8" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="37" />
+                                          <option name="replacementLength" value="40" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="implement this test using _test_container_class()" />
+                                          <option name="line" value="37" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="self._test_container_class((), (False,))" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                          <option name="myReplacementLength" value="40" />
+                                          <option name="myIndex" value="8" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="9" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="40" />
+                                          <option name="replacementLength" value="42" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="implement this test using _test_container_class()" />
+                                          <option name="line" value="40" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="self._test_container_class(set(), {False})" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                          <option name="myReplacementLength" value="42" />
+                                          <option name="myIndex" value="9" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="10" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="43" />
+                                          <option name="replacementLength" value="46" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="implement this test using _test_container_class()" />
+                                          <option name="line" value="43" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="self._test_container_class({}, {False: False})" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="implement this test using _test_container_class()" />
+                                          <option name="myReplacementLength" value="46" />
+                                          <option name="myIndex" value="10" />
                                         </TaskWindow>
                                       </list>
                                     </option>
