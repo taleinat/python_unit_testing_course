@@ -329,7 +329,7 @@
                               <list>
                                 <TaskWindow>
                                   <option name="index" value="1" />
-                                  <option name="length" value="16" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="6" />
                                   <option name="replacementLength" value="19" />
                                   <option name="start" value="8" />
@@ -338,14 +338,14 @@
                                   <option name="start" value="8" />
                                   <option name="hint" value="lesson2task1truthiness_1" />
                                   <option name="possible_answer" value="self.assertFalse(0)" />
-                                  <option name="length" value="16" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value="write this test!" />
                                   <option name="myReplacementLength" value="19" />
                                   <option name="myIndex" value="1" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="2" />
-                                  <option name="length" value="16" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="10" />
                                   <option name="replacementLength" value="18" />
                                   <option name="start" value="8" />
@@ -354,14 +354,14 @@
                                   <option name="start" value="8" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="self.assertTrue(1)" />
-                                  <option name="length" value="16" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value="write this test!" />
                                   <option name="myReplacementLength" value="18" />
                                   <option name="myIndex" value="2" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="3" />
-                                  <option name="length" value="16" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="14" />
                                   <option name="replacementLength" value="18" />
                                   <option name="start" value="8" />
@@ -370,14 +370,14 @@
                                   <option name="start" value="8" />
                                   <option name="hint" />
                                   <option name="possible_answer" value="self.assertTrue(3)" />
-                                  <option name="length" value="16" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value="write this test!" />
                                   <option name="myReplacementLength" value="18" />
                                   <option name="myIndex" value="3" />
                                 </TaskWindow>
                                 <TaskWindow>
                                   <option name="index" value="4" />
-                                  <option name="length" value="10" />
+                                  <option name="length" value="0" />
                                   <option name="line" value="20" />
                                   <option name="replacementLength" value="5" />
                                   <option name="start" value="19" />
@@ -386,7 +386,7 @@
                                   <option name="start" value="19" />
                                   <option name="hint" value="lesson2task1truthiness_4" />
                                   <option name="possible_answer" value="False" />
-                                  <option name="length" value="10" />
+                                  <option name="length" value="0" />
                                   <option name="myTaskText" value="MethodName" />
                                   <option name="myReplacementLength" value="5" />
                                   <option name="myIndex" value="4" />
@@ -655,7 +655,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="16" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="6" />
                                       <option name="replacementLength" value="19" />
                                       <option name="start" value="8" />
@@ -664,14 +664,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson2task1truthiness_1" />
                                       <option name="possible_answer" value="self.assertFalse(0)" />
-                                      <option name="length" value="16" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="write this test!" />
                                       <option name="myReplacementLength" value="19" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="16" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="10" />
                                       <option name="replacementLength" value="18" />
                                       <option name="start" value="8" />
@@ -680,14 +680,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="self.assertTrue(1)" />
-                                      <option name="length" value="16" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="write this test!" />
                                       <option name="myReplacementLength" value="18" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="16" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="14" />
                                       <option name="replacementLength" value="18" />
                                       <option name="start" value="8" />
@@ -696,14 +696,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="self.assertTrue(3)" />
-                                      <option name="length" value="16" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="write this test!" />
                                       <option name="myReplacementLength" value="18" />
                                       <option name="myIndex" value="3" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="4" />
-                                      <option name="length" value="10" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="20" />
                                       <option name="replacementLength" value="5" />
                                       <option name="start" value="19" />
@@ -712,7 +712,7 @@
                                       <option name="start" value="19" />
                                       <option name="hint" value="lesson2task1truthiness_4" />
                                       <option name="possible_answer" value="False" />
-                                      <option name="length" value="10" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="MethodName" />
                                       <option name="myReplacementLength" value="5" />
                                       <option name="myIndex" value="4" />
@@ -1314,7 +1314,7 @@
                                   <list>
                                     <TaskWindow>
                                       <option name="index" value="1" />
-                                      <option name="length" value="16" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="6" />
                                       <option name="replacementLength" value="19" />
                                       <option name="start" value="8" />
@@ -1323,14 +1323,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" value="lesson2task1truthiness_1" />
                                       <option name="possible_answer" value="self.assertFalse(0)" />
-                                      <option name="length" value="16" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="write this test!" />
                                       <option name="myReplacementLength" value="19" />
                                       <option name="myIndex" value="1" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="2" />
-                                      <option name="length" value="16" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="10" />
                                       <option name="replacementLength" value="18" />
                                       <option name="start" value="8" />
@@ -1339,14 +1339,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="self.assertTrue(1)" />
-                                      <option name="length" value="16" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="write this test!" />
                                       <option name="myReplacementLength" value="18" />
                                       <option name="myIndex" value="2" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="3" />
-                                      <option name="length" value="16" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="14" />
                                       <option name="replacementLength" value="18" />
                                       <option name="start" value="8" />
@@ -1355,14 +1355,14 @@
                                       <option name="start" value="8" />
                                       <option name="hint" />
                                       <option name="possible_answer" value="self.assertTrue(3)" />
-                                      <option name="length" value="16" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="write this test!" />
                                       <option name="myReplacementLength" value="18" />
                                       <option name="myIndex" value="3" />
                                     </TaskWindow>
                                     <TaskWindow>
                                       <option name="index" value="4" />
-                                      <option name="length" value="10" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="20" />
                                       <option name="replacementLength" value="5" />
                                       <option name="start" value="19" />
@@ -1371,7 +1371,7 @@
                                       <option name="start" value="19" />
                                       <option name="hint" value="lesson2task1truthiness_4" />
                                       <option name="possible_answer" value="False" />
-                                      <option name="length" value="10" />
+                                      <option name="length" value="0" />
                                       <option name="myTaskText" value="MethodName" />
                                       <option name="myReplacementLength" value="5" />
                                       <option name="myIndex" value="4" />
@@ -1640,7 +1640,7 @@
                                       <list>
                                         <TaskWindow>
                                           <option name="index" value="1" />
-                                          <option name="length" value="16" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="6" />
                                           <option name="replacementLength" value="19" />
                                           <option name="start" value="8" />
@@ -1649,14 +1649,14 @@
                                           <option name="start" value="8" />
                                           <option name="hint" value="lesson2task1truthiness_1" />
                                           <option name="possible_answer" value="self.assertFalse(0)" />
-                                          <option name="length" value="16" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value="write this test!" />
                                           <option name="myReplacementLength" value="19" />
                                           <option name="myIndex" value="1" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="2" />
-                                          <option name="length" value="16" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="10" />
                                           <option name="replacementLength" value="18" />
                                           <option name="start" value="8" />
@@ -1665,14 +1665,14 @@
                                           <option name="start" value="8" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="self.assertTrue(1)" />
-                                          <option name="length" value="16" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value="write this test!" />
                                           <option name="myReplacementLength" value="18" />
                                           <option name="myIndex" value="2" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="3" />
-                                          <option name="length" value="16" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="14" />
                                           <option name="replacementLength" value="18" />
                                           <option name="start" value="8" />
@@ -1681,14 +1681,14 @@
                                           <option name="start" value="8" />
                                           <option name="hint" />
                                           <option name="possible_answer" value="self.assertTrue(3)" />
-                                          <option name="length" value="16" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value="write this test!" />
                                           <option name="myReplacementLength" value="18" />
                                           <option name="myIndex" value="3" />
                                         </TaskWindow>
                                         <TaskWindow>
                                           <option name="index" value="4" />
-                                          <option name="length" value="10" />
+                                          <option name="length" value="0" />
                                           <option name="line" value="20" />
                                           <option name="replacementLength" value="5" />
                                           <option name="start" value="19" />
@@ -1697,7 +1697,7 @@
                                           <option name="start" value="19" />
                                           <option name="hint" value="lesson2task1truthiness_4" />
                                           <option name="possible_answer" value="False" />
-                                          <option name="length" value="10" />
+                                          <option name="length" value="0" />
                                           <option name="myTaskText" value="MethodName" />
                                           <option name="myReplacementLength" value="5" />
                                           <option name="myIndex" value="4" />
