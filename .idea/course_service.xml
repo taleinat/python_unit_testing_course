@@ -517,6 +517,125 @@
                   </option>
                   <option name="myIndex" value="2" />
                 </Task>
+                <Task>
+                  <option name="index" value="3" />
+                  <option name="name" value="Container Assertions" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="container_assertions.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list>
+                                <TaskWindow>
+                                  <option name="index" value="1" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="70" />
+                                  <option name="replacementLength" value="45" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="implement this test!" />
+                                  <option name="line" value="70" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" />
+                                  <option name="possible_answer" value="self.assertCountEqual(random_shuffle([]), [])" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="implement this test!" />
+                                  <option name="myReplacementLength" value="45" />
+                                  <option name="myIndex" value="1" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="2" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="74" />
+                                  <option name="replacementLength" value="149" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="implement this test!" />
+                                  <option name="line" value="74" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson2task3container_assertions_4" />
+                                  <option name="possible_answer" value="for i in range(10):&#10;            self.assertEqual(len(random_shuffle(list(range(i)))), i)" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="implement this test!" />
+                                  <option name="myReplacementLength" value="149" />
+                                  <option name="myIndex" value="2" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="3" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="81" />
+                                  <option name="replacementLength" value="53" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="implement this test!" />
+                                  <option name="line" value="81" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson2task3container_assertions_3" />
+                                  <option name="possible_answer" value="self.assertCountEqual(random_shuffle(values), values)" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="implement this test!" />
+                                  <option name="myReplacementLength" value="53" />
+                                  <option name="myIndex" value="3" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="4" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="85" />
+                                  <option name="replacementLength" value="91" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="implement this test!" />
+                                  <option name="line" value="85" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson2task3container_assertions_2" />
+                                  <option name="possible_answer" value="values = list(range(100))&#10;        self.assertNotEqual(random_shuffle(values), values)" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="implement this test!" />
+                                  <option name="myReplacementLength" value="91" />
+                                  <option name="myIndex" value="4" />
+                                </TaskWindow>
+                                <TaskWindow>
+                                  <option name="index" value="5" />
+                                  <option name="length" value="0" />
+                                  <option name="line" value="90" />
+                                  <option name="replacementLength" value="107" />
+                                  <option name="start" value="8" />
+                                  <option name="taskText" value="implement this test!" />
+                                  <option name="line" value="90" />
+                                  <option name="start" value="8" />
+                                  <option name="hint" value="lesson2task3container_assertions_5" />
+                                  <option name="possible_answer" value="values = list(range(100))&#10;        random_shuffle(values)&#10;        self.assertEqual(values, list(range(100)))" />
+                                  <option name="length" value="0" />
+                                  <option name="myTaskText" value="implement this test!" />
+                                  <option name="myReplacementLength" value="107" />
+                                  <option name="myIndex" value="5" />
+                                </TaskWindow>
+                              </list>
+                            </option>
+                            <option name="myIndex" value="3" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="3" />
+                </Task>
+                <Task>
+                  <option name="index" value="4" />
+                  <option name="name" value="Exception Assertions" />
+                  <option name="task_files">
+                    <map>
+                      <entry key="file1.py">
+                        <value>
+                          <TaskFile>
+                            <option name="task_windows">
+                              <list />
+                            </option>
+                            <option name="myIndex" value="4" />
+                          </TaskFile>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                  <option name="myIndex" value="4" />
+                </Task>
               </list>
             </option>
             <option name="myIndex" value="2" />
@@ -727,6 +846,133 @@
                         </map>
                       </option>
                       <option name="myIndex" value="2" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task3">
+                  <value>
+                    <Task>
+                      <option name="index" value="3" />
+                      <option name="name" value="Container Assertions" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="container_assertions.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="70" />
+                                      <option name="replacementLength" value="45" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test!" />
+                                      <option name="line" value="70" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self.assertCountEqual(random_shuffle([]), [])" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test!" />
+                                      <option name="myReplacementLength" value="45" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="74" />
+                                      <option name="replacementLength" value="149" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test!" />
+                                      <option name="line" value="74" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task3container_assertions_4" />
+                                      <option name="possible_answer" value="for i in range(10):&#10;            self.assertEqual(len(random_shuffle(list(range(i)))), i)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test!" />
+                                      <option name="myReplacementLength" value="149" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="3" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="81" />
+                                      <option name="replacementLength" value="53" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test!" />
+                                      <option name="line" value="81" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task3container_assertions_3" />
+                                      <option name="possible_answer" value="self.assertCountEqual(random_shuffle(values), values)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test!" />
+                                      <option name="myReplacementLength" value="53" />
+                                      <option name="myIndex" value="3" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="4" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="85" />
+                                      <option name="replacementLength" value="91" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test!" />
+                                      <option name="line" value="85" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task3container_assertions_2" />
+                                      <option name="possible_answer" value="values = list(range(100))&#10;        self.assertNotEqual(random_shuffle(values), values)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test!" />
+                                      <option name="myReplacementLength" value="91" />
+                                      <option name="myIndex" value="4" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="5" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="90" />
+                                      <option name="replacementLength" value="107" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test!" />
+                                      <option name="line" value="90" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task3container_assertions_5" />
+                                      <option name="possible_answer" value="values = list(range(100))&#10;        random_shuffle(values)&#10;        self.assertEqual(values, list(range(100)))" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test!" />
+                                      <option name="myReplacementLength" value="107" />
+                                      <option name="myIndex" value="5" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="3" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="3" />
+                    </Task>
+                  </value>
+                </entry>
+                <entry key="task4">
+                  <value>
+                    <Task>
+                      <option name="index" value="4" />
+                      <option name="name" value="Exception Assertions" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="4" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="4" />
                     </Task>
                   </value>
                 </entry>
@@ -1256,6 +1502,125 @@
                       </option>
                       <option name="myIndex" value="2" />
                     </Task>
+                    <Task>
+                      <option name="index" value="3" />
+                      <option name="name" value="Container Assertions" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="container_assertions.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list>
+                                    <TaskWindow>
+                                      <option name="index" value="1" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="70" />
+                                      <option name="replacementLength" value="45" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test!" />
+                                      <option name="line" value="70" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" />
+                                      <option name="possible_answer" value="self.assertCountEqual(random_shuffle([]), [])" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test!" />
+                                      <option name="myReplacementLength" value="45" />
+                                      <option name="myIndex" value="1" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="2" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="74" />
+                                      <option name="replacementLength" value="149" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test!" />
+                                      <option name="line" value="74" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task3container_assertions_4" />
+                                      <option name="possible_answer" value="for i in range(10):&#10;            self.assertEqual(len(random_shuffle(list(range(i)))), i)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test!" />
+                                      <option name="myReplacementLength" value="149" />
+                                      <option name="myIndex" value="2" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="3" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="81" />
+                                      <option name="replacementLength" value="53" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test!" />
+                                      <option name="line" value="81" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task3container_assertions_3" />
+                                      <option name="possible_answer" value="self.assertCountEqual(random_shuffle(values), values)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test!" />
+                                      <option name="myReplacementLength" value="53" />
+                                      <option name="myIndex" value="3" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="4" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="85" />
+                                      <option name="replacementLength" value="91" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test!" />
+                                      <option name="line" value="85" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task3container_assertions_2" />
+                                      <option name="possible_answer" value="values = list(range(100))&#10;        self.assertNotEqual(random_shuffle(values), values)" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test!" />
+                                      <option name="myReplacementLength" value="91" />
+                                      <option name="myIndex" value="4" />
+                                    </TaskWindow>
+                                    <TaskWindow>
+                                      <option name="index" value="5" />
+                                      <option name="length" value="0" />
+                                      <option name="line" value="90" />
+                                      <option name="replacementLength" value="107" />
+                                      <option name="start" value="8" />
+                                      <option name="taskText" value="implement this test!" />
+                                      <option name="line" value="90" />
+                                      <option name="start" value="8" />
+                                      <option name="hint" value="lesson2task3container_assertions_5" />
+                                      <option name="possible_answer" value="values = list(range(100))&#10;        random_shuffle(values)&#10;        self.assertEqual(values, list(range(100)))" />
+                                      <option name="length" value="0" />
+                                      <option name="myTaskText" value="implement this test!" />
+                                      <option name="myReplacementLength" value="107" />
+                                      <option name="myIndex" value="5" />
+                                    </TaskWindow>
+                                  </list>
+                                </option>
+                                <option name="myIndex" value="3" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="3" />
+                    </Task>
+                    <Task>
+                      <option name="index" value="4" />
+                      <option name="name" value="Exception Assertions" />
+                      <option name="task_files">
+                        <map>
+                          <entry key="file1.py">
+                            <value>
+                              <TaskFile>
+                                <option name="task_windows">
+                                  <list />
+                                </option>
+                                <option name="myIndex" value="4" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="myIndex" value="4" />
+                    </Task>
                   </list>
                 </option>
                 <option name="myIndex" value="2" />
@@ -1466,6 +1831,133 @@
                             </map>
                           </option>
                           <option name="myIndex" value="2" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task3">
+                      <value>
+                        <Task>
+                          <option name="index" value="3" />
+                          <option name="name" value="Container Assertions" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="container_assertions.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list>
+                                        <TaskWindow>
+                                          <option name="index" value="1" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="70" />
+                                          <option name="replacementLength" value="45" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="implement this test!" />
+                                          <option name="line" value="70" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" />
+                                          <option name="possible_answer" value="self.assertCountEqual(random_shuffle([]), [])" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="implement this test!" />
+                                          <option name="myReplacementLength" value="45" />
+                                          <option name="myIndex" value="1" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="2" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="74" />
+                                          <option name="replacementLength" value="149" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="implement this test!" />
+                                          <option name="line" value="74" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson2task3container_assertions_4" />
+                                          <option name="possible_answer" value="for i in range(10):&#10;            self.assertEqual(len(random_shuffle(list(range(i)))), i)" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="implement this test!" />
+                                          <option name="myReplacementLength" value="149" />
+                                          <option name="myIndex" value="2" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="3" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="81" />
+                                          <option name="replacementLength" value="53" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="implement this test!" />
+                                          <option name="line" value="81" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson2task3container_assertions_3" />
+                                          <option name="possible_answer" value="self.assertCountEqual(random_shuffle(values), values)" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="implement this test!" />
+                                          <option name="myReplacementLength" value="53" />
+                                          <option name="myIndex" value="3" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="4" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="85" />
+                                          <option name="replacementLength" value="91" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="implement this test!" />
+                                          <option name="line" value="85" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson2task3container_assertions_2" />
+                                          <option name="possible_answer" value="values = list(range(100))&#10;        self.assertNotEqual(random_shuffle(values), values)" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="implement this test!" />
+                                          <option name="myReplacementLength" value="91" />
+                                          <option name="myIndex" value="4" />
+                                        </TaskWindow>
+                                        <TaskWindow>
+                                          <option name="index" value="5" />
+                                          <option name="length" value="0" />
+                                          <option name="line" value="90" />
+                                          <option name="replacementLength" value="107" />
+                                          <option name="start" value="8" />
+                                          <option name="taskText" value="implement this test!" />
+                                          <option name="line" value="90" />
+                                          <option name="start" value="8" />
+                                          <option name="hint" value="lesson2task3container_assertions_5" />
+                                          <option name="possible_answer" value="values = list(range(100))&#10;        random_shuffle(values)&#10;        self.assertEqual(values, list(range(100)))" />
+                                          <option name="length" value="0" />
+                                          <option name="myTaskText" value="implement this test!" />
+                                          <option name="myReplacementLength" value="107" />
+                                          <option name="myIndex" value="5" />
+                                        </TaskWindow>
+                                      </list>
+                                    </option>
+                                    <option name="myIndex" value="3" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="3" />
+                        </Task>
+                      </value>
+                    </entry>
+                    <entry key="task4">
+                      <value>
+                        <Task>
+                          <option name="index" value="4" />
+                          <option name="name" value="Exception Assertions" />
+                          <option name="task_files">
+                            <map>
+                              <entry key="file1.py">
+                                <value>
+                                  <TaskFile>
+                                    <option name="task_windows">
+                                      <list />
+                                    </option>
+                                    <option name="myIndex" value="4" />
+                                  </TaskFile>
+                                </value>
+                              </entry>
+                            </map>
+                          </option>
+                          <option name="myIndex" value="4" />
                         </Task>
                       </value>
                     </entry>

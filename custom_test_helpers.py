@@ -63,7 +63,7 @@ def _get_assertion_method_names(class_):
 ASSERTION_METHOD_NAMES = frozenset(_get_assertion_method_names(unittest.TestCase))
 
 
-def _get_test_method_names(class_):
+def get_test_method_names(class_):
     return (
         name for name in dir(class_)
         if (name == 'runTest' or name.startswith("test"))
@@ -102,7 +102,7 @@ def _override_method_with_mock(test_case_instance, method_name):
 
 
 def inspect_assertions(test_case_class):
-    test_method_names = _get_test_method_names(test_case_class)
+    test_method_names = get_test_method_names(test_case_class)
 
     class_counters = {}
     test_case_class.class_counters = class_counters
